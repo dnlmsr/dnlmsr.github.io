@@ -10,4 +10,6 @@
 * Experience
   - fjaskdjfk :: ksdjfkjasdf
   - iasndfkasjd :: skdjfkjsd
+* Cool link
+  Follow the cool [[file:article.org][description]]
 #+INCLUDE: footer.org
