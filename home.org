@@ -1,0 +1,11 @@
+#+TITLE: mosis.xyz
+#+DESCRIPTION: Descrizione
+#+AUTHOR: Daniele Moser
+#+EMAIL: dnlmsr0@gmail.com
+#+EXPORT_FILE_NAME: index.html
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+* Who am I
+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
+* Experience
+  - fjaskdjfk :: ksdjfkjasdf
+  - iasndfkasjd :: skdjfkjsd
