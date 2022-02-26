@@ -3,5 +3,5 @@
 #+AUTHOR: Daniele Moser
 #+EMAIL: dnlmsr0@gmail.com
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-#+INCLUDE: header.org
+#+INCLUDE: ../header.org
 * Cool article

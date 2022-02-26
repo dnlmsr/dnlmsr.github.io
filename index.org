@@ -2,7 +2,6 @@
 #+DESCRIPTION: Descrizione
 #+AUTHOR: Daniele Moser
 #+EMAIL: dnlmsr0@gmail.com
-#+EXPORT_FILE_NAME: index.html
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+INCLUDE: header.org
 * Who am I
@@ -11,5 +10,5 @@
   - fjaskdjfk :: ksdjfkjasdf
   - iasndfkasjd :: skdjfkjsd
 * Cool link
-  Follow the cool [[file:article.org][description]]
+  Follow the cool [[file:articles/article.org][description]]
 #+INCLUDE: footer.org
