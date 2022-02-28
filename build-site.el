@@ -3,7 +3,7 @@
       '(("mosis.xyz"
          :recursive t
          :base-directory "./"
-         :publishing-directory "./public"
+         :publishing-directory "./docs"
          :publishing-function org-html-publish-to-html)))
 
 (org-publish-all t)
