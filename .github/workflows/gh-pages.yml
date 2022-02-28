@@ -7,7 +7,7 @@ on:
     pull_request:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,12 +15,11 @@ jobs:
           submodules: true
           fetch-depth: 0
       - name: Setup Emacs
-        uses: leotaku/elisp-check@master
+        run: sudo apt-get install -y emacs
+      - name: Build
+        run: ./build.sh
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
-          file: build-site.el
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
-          publish_dir: ./docs
+          branch: gh-pages
+          folder: ./public
