@@ -1,7 +1,0 @@
-#+TITLE: mosis.xyz
-#+DESCRIPTION: Descrizione
-#+AUTHOR: Daniele Moser
-#+EMAIL: dnlmsr0@gmail.com
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-#+INCLUDE: ../header.org
-* Cool article 2
