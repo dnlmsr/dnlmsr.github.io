@@ -81,6 +81,11 @@ I worked as an itern in a PCB production company, where I learned the
 basics of THT and SMD soldering. Furthermore this was the first time I managed
 to see the production and testing process of PCBs.
 
+* Contacts
+- Email: [[mailto:dnlmsr0@gmail.com][dnlmsr0@gmail.com]]
+- LinkedIn: [[www.linkedin.com/in/dan-mos][dan-mos]]
+- Github: [[https://github.com/dnlmsr][dnlmsr]]
+
 * Last articles
 #+begin_src shell :exports results
   ls -1 articles | while read line ; do echo "[[file:articles/$line][articolo]]" ; done
