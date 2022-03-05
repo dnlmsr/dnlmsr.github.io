@@ -1,16 +1,71 @@
-#+TITLE: mosis.xyz
+#+TITLE: Daniele Moser
 #+DESCRIPTION: Descrizione
 #+AUTHOR: Daniele Moser
 #+EMAIL: dnlmsr0@gmail.com
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-#+INCLUDE: header.org
+
 * Who am I
-Site under construction
-* Experience
-  - fjaskdjfk :: ksdjfkjasdf
-  - iasndfkasjd :: skdjfkjsd
+Hi, I'm Daniele, I'm a 22 year old guy based in Trentino, Italy. I work as an eletronic
+technician and embedded software developer in LEOS, where my daily work consists
+of production management of the electronics which control the laser head (you
+can find more info in section [[work:leos]]).
+
+In my free time, you can find me running in the mountains or growing new
+technical skills.
+
+** TODO Firefighting experience
+I'm also a local firefighter in my village.
+
+* Technical knowledge
+My technical skills are all centered around electronics and programming.
+** Electronics
+I sutdied electronics and automation in high school, after that I took a
+2-year course in automation and mechatronics, where I also found interests in
+production management and lean production methods.
+Here are some skills:
+- PCB design, mostly done with KiCad
+- PCB production and production management
+- SMD and THT soldering
+- Embedded boards programming
+
+** Informatics
+I have always found the IT world to be fascinating, as a fact I spend lot of my free
+time discovering new things on this subject. I am also a fan of open source
+software and anything that revolves around it.
+These below are some tools and programs I learned in my lifetime:
+- Linux
+- Git
+- KiCad
+- C for embedded systems
+- Latex
+- Python
+
+* Education
+** High school degree in Electronics and Automation (2015-2018)
+I graduated in 2018 in Electronics and Automation, my thesis was about a project
+of a Rubik's cube solver, where I covered most of the electronics and programming.
+
+** Alta Formazione Professionale in Mechatronics and Automation (2018-2020)
+I also took a 2 year course in Mechatronics and Automation. This course
+alternates lessons with 8 months of internship (you can find more info in
+section [[work:blm]]) so not only studying is involved
+but I also managed to build some work experience.
+
+* Work experience
+** LEOS S.r.l. (January 2021 - today) <<work:leos>>
+I am currently working in a production environment where I manage the producion
+and quality assurance of the electronics which control laser heads used for
+spectroscopy.
+
+** TODO BLM group (8 months in 2020-2021) <<work:blm>>
+
+** TODO ACE control systems LTD
+
+** Tretec S.r.l.
+I worked as an itern in a PCB production company, where I learned the
+basics of THT and SMD soldering. Furthermore this was the first time I managed
+to see the production and testing process of PCBs.
+
 * Last articles
- #+begin_src shell :exports results
-   ls -1 articles | while read line ; do echo "[[file:articles/$line][articolo]]" ; done
+#+begin_src shell :exports results
+  ls -1 articles | while read line ; do echo "[[file:articles/$line][articolo]]" ; done
 #+end_src
-#+INCLUDE: footer.org
