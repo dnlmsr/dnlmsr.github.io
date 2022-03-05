@@ -47,20 +47,36 @@ of a Rubik's cube solver, where I covered most of the electronics and programmin
 ** Alta Formazione Professionale in Mechatronics and Automation (2018-2020)
 I also took a 2 year course in Mechatronics and Automation. This course
 alternates lessons with 8 months of internship (you can find more info in
-section [[work:blm]]) so not only studying is involved
-but I also managed to build some work experience.
+section [[work:blm]]) so not only studying is involved but I also managed to build
+some work experience.
+
+My thesis revolved around the digitalization process of the production facility
+and lean production methods used in the factory.
 
 * Work experience
 ** LEOS S.r.l. (January 2021 - today) <<work:leos>>
 I am currently working in a production environment where I manage the producion
 and quality assurance of the electronics which control laser heads used for
-spectroscopy.
+spectroscopy purposes. 
 
-** TODO BLM group (8 months in 2020-2021) <<work:blm>>
+** BLM group (8 months in 2019-2020) <<work:blm>>
+I worked as a intern in Adige S.p.a. where I performed various tasks in the
+production facility of laser cutting machinery. The tasks include:
+- Inventory management
+- Production of mechanical pieces with CNC machines
+- Followed the full producion start to finish (both mechanical and electric) of
+  a laser tube-cutting machine
+ 
+Most importantly, I followed the digitalization process of the production
+facility, which aimed to better estimate the production status of each machine.
+Furthermore I took part in the realization of a proof of concept of
+digitalization of the building procedures.
 
-** TODO ACE control systems LTD
+** ACE control systems LTD (August 2017)
+I worked as an intern in Ireland which was part of a school project. I worked in
+a workshop mostly doing cabling of electrical cabinets.
 
-** Tretec S.r.l.
+** Tretec S.r.l. (June 2017)
 I worked as an itern in a PCB production company, where I learned the
 basics of THT and SMD soldering. Furthermore this was the first time I managed
 to see the production and testing process of PCBs.
