@@ -17,6 +17,7 @@
          :base-directory "./"
          :publishing-directory "./public"
          :publishing-function org-html-publish-to-html
+         :with-toc nil
          :with-author t
          :with-creator t
          :section-numbers nil
