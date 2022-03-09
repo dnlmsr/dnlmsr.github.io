@@ -40,11 +40,11 @@ These below are some tools and programs I learned in my lifetime:
 - Python
 
 * 🎓 Education
-** High school degree in Electronics and Automation (2015-2018)
+** High school degree in Electronics and Automation (2015 - 2018)
 I graduated in 2018 in Electronics and Automation, my thesis was about a project
 of a Rubik's cube solver, where I covered most of the electronics and programming.
 
-** Alta Formazione Professionale in Mechatronics and Automation (2018-2020)
+** Alta Formazione Professionale in Mechatronics and Automation (2018 - 2020)
 I also took a 2 year course in Mechatronics and Automation. This course
 alternates lessons with 8 months of internship (you can find more info in
 section [[work:blm]]) so not only studying is involved but I also managed to build
@@ -59,7 +59,7 @@ I am currently working in a production environment where I manage the production
 and quality assurance of the electronics which control laser heads used for
 spectroscopy purposes. 
 
-** BLM group (8 months in 2019-2020) <<work:blm>>
+** BLM group (8 months in 2019 - 2020) <<work:blm>>
 I worked as a intern in Adige S.p.a. where I performed various tasks in the
 production facility of laser cutting machinery. The tasks include:
 - Inventory management
