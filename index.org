@@ -3,7 +3,7 @@
 #+AUTHOR: Daniele Moser
 #+EMAIL: dnlmsr0@gmail.com
 
-* Who am I
+* 🙋‍♂️ Who am I
 Hi, I'm Daniele, I'm a 22 year old guy based in Trentino, Italy. I work as an electronic
 designer and embedded software developer in
 [[http://www.leos-instruments.com][LEOS]] where my daily work consists
@@ -13,10 +13,10 @@ spectroscopy purposes (you can find more info in section [[work:leos]]).
 In my free time, you can find me running in the mountains, growing new
 technical skills but most importantly being a volunteer firefighter 🚒.
 
-* Technical knowledge
+* 🛠️ Technical knowledge
 My technical skills are all centered around electronics and programming.
 
-** Electronics
+** 💡 Electronics
 I studied electronics and automation in high school, after that I took a
 2-year course in automation and mechatronics, where I also found interests in
 production management and lean production methods.
@@ -26,7 +26,7 @@ Here are some skills I know:
 - SMD and THT soldering
 - Embedded boards programming
 
-** Informatics
+** 🖥️ Informatics
 I have always found the IT world to be fascinating, as a fact I spend lot of my free
 time discovering new things on this subject. I am also a fan of open source
 software and anything that revolves around it, and I always try to find open
@@ -39,7 +39,7 @@ These below are some tools and programs I learned in my lifetime:
 - Latex
 - Python
 
-* Education
+* 🎓 Education
 ** High school degree in Electronics and Automation (2015-2018)
 I graduated in 2018 in Electronics and Automation, my thesis was about a project
 of a Rubik's cube solver, where I covered most of the electronics and programming.
@@ -53,7 +53,7 @@ some work experience.
 My thesis revolved around the digitization process of the production facility
 and lean production methods used in the factory.
 
-* Work experience
+* 👨‍💻 Work experience
 ** LEOS S.r.l. (January 2021 - today) <<work:leos>>
 I am currently working in a production environment where I manage the production
 and quality assurance of the electronics which control laser heads used for
@@ -81,12 +81,12 @@ I worked as an intern in a PCB production company, where I learned the
 basics of THT and SMD soldering. Furthermore this was the first time I managed
 to see the production and testing process of PCBs.
 
-* Contacts
+* 📧 Contacts
 - Email: [[mailto:dnlmsr0@gmail.com][dnlmsr0@gmail.com]]
 - LinkedIn: [[https://www.linkedin.com/in/dan-mos][dan-mos]]
 - GitHub: [[https://github.com/dnlmsr][dnlmsr]]
 
-* Last articles
+* 📜 Last articles
 #+begin_src shell :exports results
   ls -1 articles | while read line ; do echo "[[file:articles/$line][articolo]]" ; done
 #+end_src
