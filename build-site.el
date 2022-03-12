@@ -6,11 +6,17 @@
 
 (org-babel-do-load-languages 'org-babel-load-languages'((shell . t)))
 
-(setq org-html-validation-link nil 
+(setq org-html-validation-link nil
       org-html-head-include-scripts nil
       org-html-head-include-default-style nil
       org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\">"
       )
+
+(defun html/preamble (plist)
+  (with-temp-buffer
+    (insert-file-contents "./preamble.html") (buffer-string)))
+
+
 (setq org-publish-project-alist
       '(("mosis.xyz"
          :recursive t
@@ -23,6 +29,7 @@
          :section-numbers nil
          :time-stamp-file t
          :language en
+         :html-preamble html/preamble
          )
         ("blog"
          :recursive nil
