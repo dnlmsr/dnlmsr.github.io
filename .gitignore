@@ -56,5 +56,5 @@ flycheck_*.el
 # End of https://www.toptal.com/developers/gitignore/api/emacs
 
 # Exported org mode pages
-*.html
+public/
 index.org
