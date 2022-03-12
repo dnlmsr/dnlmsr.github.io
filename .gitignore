@@ -57,4 +57,4 @@ flycheck_*.el
 
 # Exported org mode pages
 *.html
-sitemap.org
+index.org

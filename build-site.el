@@ -19,7 +19,7 @@
 
 (setq org-publish-project-alist
       '(("mosis.xyz"
-         :recursive t
+         :recursive nil
          :base-directory "./"
          :publishing-directory "./public"
          :publishing-function org-html-publish-to-html
@@ -34,8 +34,9 @@
         ("blog"
          :recursive nil
          :base-directory "./articles"
-         :publishing-directory "./public"
+         :publishing-directory "./public/articles"
          :publishing-function org-html-publish-to-html
+         :sitemap-filename "index.org"
          :auto-sitemap t
          :with-toc nil
          :with-author t
@@ -43,6 +44,7 @@
          :section-numbers nil
          :time-stamp-file t
          :language en
+         :html-preamble html/preamble
          )))
 
 (org-publish-all t)
