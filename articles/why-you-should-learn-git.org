@@ -2,7 +2,10 @@
 #+DESCRIPTION: A few reasons on why you should make use of the most popular VCS, even if you're not a software developer.
 #+AUTHOR: Daniele Moser
 #+EMAIL: dnlmsr0@gmail.com
-#+DATE: 2022:03:12
+#+DATE: 2022-03-12
+
+#+ATTR_HTML: :alt Git logo :title Git logo
+[[https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png]]
 
 * Introduction
 Over the course of my journey in Linux I discovered lots of interesting tools

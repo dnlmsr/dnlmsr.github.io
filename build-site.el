@@ -9,7 +9,7 @@
 (setq org-html-validation-link nil
       org-html-head-include-scripts nil
       org-html-head-include-default-style nil
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\">"
+      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\"/>"
       )
 
 (defun html/preamble (plist)
@@ -27,7 +27,7 @@
          :with-author t
          :with-creator t
          :section-numbers nil
-         :time-stamp-file t
+         :time-stamp-file nil
          :language en
          :html-preamble html/preamble
          )
@@ -42,7 +42,7 @@
          :with-author t
          :with-creator t
          :section-numbers nil
-         :time-stamp-file t
+         :time-stamp-file nil
          :language en
          :html-preamble html/preamble
          )))
