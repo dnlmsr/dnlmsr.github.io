@@ -27,7 +27,7 @@
          :with-author t
          :with-creator t
          :section-numbers nil
-         :time-stamp-file t
+         :time-stamp-file nil
          :language en
          :html-preamble html/preamble
          )
@@ -42,7 +42,7 @@
          :with-author t
          :with-creator t
          :section-numbers nil
-         :time-stamp-file t
+         :time-stamp-file nil
          :language en
          :html-preamble html/preamble
          )))
