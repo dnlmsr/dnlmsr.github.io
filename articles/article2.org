@@ -1,5 +1,0 @@
-#+TITLE: mosis.xyz
-#+DESCRIPTION: Descrizione
-#+AUTHOR: Daniele Moser
-#+EMAIL: dnlmsr0@gmail.com
-* Cool article 2
