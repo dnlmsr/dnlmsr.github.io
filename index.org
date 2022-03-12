@@ -8,7 +8,7 @@ Hi, I'm Daniele, I'm a 22 year old guy based in Trentino, Italy. I work as an el
 designer and embedded software developer in
 [[http://www.leos-instruments.com][LEOS]] where my daily work consists
 of production management of the electronics which control lasers for
-spectroscopy purposes (you can find more info in section [[work:leos]]).
+spectroscopy purposes (you can find more info in the [[work:leos][work section]]).
 
 In my free time, you can find me running in the mountains, growing new
 technical skills but most importantly being a volunteer firefighter 🚒.
@@ -47,7 +47,7 @@ of a Rubik's cube solver, where I covered most of the electronics and programmin
 ** Alta Formazione Professionale in Mechatronics and Automation (2018 - 2020)
 I also took a 2 year course in Mechatronics and Automation. This course
 alternates lessons with 8 months of internship (you can find more info in
-section [[work:blm]]) so not only studying is involved but I also managed to build
+the [[work:blm][work section]]) so not only studying is involved but I also managed to build
 some work experience.
 
 My thesis revolved around the digitization process of the production facility
@@ -85,8 +85,3 @@ to see the production and testing process of PCBs.
 - Email: [[mailto:dnlmsr0@gmail.com][dnlmsr0@gmail.com]]
 - LinkedIn: [[https://www.linkedin.com/in/dan-mos][dan-mos]]
 - GitHub: [[https://github.com/dnlmsr][dnlmsr]]
-
-* 📜 Last articles
-#+begin_src shell :exports results
-  ls -1 articles | while read line ; do echo "[[file:articles/$line][articolo]]" ; done
-#+end_src
