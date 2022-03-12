@@ -23,6 +23,19 @@
          :section-numbers nil
          :time-stamp-file t
          :language en
+         )
+        ("blog"
+         :recursive nil
+         :base-directory "./articles"
+         :publishing-directory "./public"
+         :publishing-function org-html-publish-to-html
+         :auto-sitemap t
+         :with-toc nil
+         :with-author t
+         :with-creator t
+         :section-numbers nil
+         :time-stamp-file t
+         :language en
          )))
 
 (org-publish-all t)
