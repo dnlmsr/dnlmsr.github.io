@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Here's why you should learn Git</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Daniele Moser" />
+<meta name="description" content="A few reasons on why you should make use of the most popular VCS, even if you're not a software developer."
+ />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css"/>
+</head>
+<body>
+<div id="preamble" class="status">
+<nav>
+    <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/articles/index.html">Blog</a></li>
+        <li><a href="/index.html">CV</a></li>
+    </ul>
+</nav>
+</div>
+<div id="content">
+<h1 class="title">Here's why you should learn Git</h1>
+
+<div class="figure">
+<p><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git logo" title="Git logo" />
+</p>
+</div>
+
+<div id="outline-container-org6b0ba45" class="outline-2">
+<h2 id="org6b0ba45">Introduction</h2>
+<div class="outline-text-2" id="text-org6b0ba45">
+<p>
+Over the course of my journey in Linux I discovered lots of interesting tools
+for production or for everyday tasks. But none of them compared to what Git gave
+me, and I'd even go as far as saying that it completely changed my perspective
+of working on a PC.
+</p>
+
+<div class="info">
+<p>
+<b>Warning</b> <br />
+This is not a guide on how to use Git, there are tons of good guides out there,
+this article is about my point of view on Git.
+</p>
+
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga83044d" class="outline-2">
+<h2 id="orga83044d">Example</h2>
+<div class="outline-text-2" id="text-orga83044d">
+<p>
+Let's say you're working on a software project, or even a project which isn't
+necessarily code based such as a writing or a mechanical or electrical drawing.
+You start your project, edit it, refine it and you're done! And you didn't even
+need Git for this! Now let's say something doesn't look right with it: you copy
+your base file, probably save it as <code>final_version</code>, edit it, and you're happy
+with it. Now let's iterate this last step 5 times until you get to the
+<code>trust_me_most_final_version</code>. Great! Now you have your project folder cluttered
+of final versions, but how does someone else know which is the right one? Let's
+take this a step further, you remove something from your final version and you
+save it, then you realize that part wasn't so bad, how are you gonna recover it?
+Are you going to manage your projects like this or have a tool which deals with
+this headache for you?
+</p>
+
+<p>
+If you wish to keep working like this, you probably won't go far away without
+losing versions or data. That's why VCSs (Version Control Systems) exist,
+they're there to save hours of headaches trying to look for that particular
+change you probably even deleted. There are lots of VCSs out there like
+Mercurial, CVS, SVN and others, but the most popular and well known is <b>Git</b>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org565553a" class="outline-2">
+<h2 id="org565553a">What does Git solve</h2>
+<div class="outline-text-2" id="text-org565553a">
+<p>
+Git basically takes care of versioning your project for you, without even
+noticing. Actually, you have to tell him when to store a new version of the
+file, but you surely won't have tons of final versions in your project
+directory. I will now list some problems it solves:
+</p>
+</div>
+
+<div id="outline-container-orgd2cf051" class="outline-3">
+<h3 id="orgd2cf051">Saving every version of the file</h3>
+<div class="outline-text-3" id="text-orgd2cf051">
+<p>
+Well, that's basically what Git is intended for.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb35afc5" class="outline-3">
+<h3 id="orgb35afc5">Showing a log of the versions</h3>
+<div class="outline-text-3" id="text-orgb35afc5">
+<p>
+Git can show you a log of all the versions and who uploaded it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org394c9ae" class="outline-3">
+<h3 id="org394c9ae">Showing the difference between two versions</h3>
+<div class="outline-text-3" id="text-org394c9ae">
+<p>
+Git can show you what you added and deleted to a file
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb94e01a" class="outline-3">
+<h3 id="orgb94e01a">Manage multiple files</h3>
+<div class="outline-text-3" id="text-orgb94e01a">
+<p>
+Imagine applying the example before with two different files, I won't even
+imagine the mess it would create.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd33a83" class="outline-3">
+<h3 id="orgfd33a83">Working with other people</h3>
+<div class="outline-text-3" id="text-orgfd33a83">
+<p>
+You'll probably have to deal with working with other people once in a while, Git
+makes it easy to do it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87e12c5" class="outline-3">
+<h3 id="org87e12c5">Branching</h3>
+<div class="outline-text-3" id="text-org87e12c5">
+<p>
+Now we're going into the rabbit hole of this tool. Let's say you have a base
+version of your project, but you want two different versions of it: one with a
+picture of a dog in it and one with a picture of a car. Well branching comes to
+the rescue! Just create two branches and create a new desired version on each
+branch.
+</p>
+
+<p>
+Branching is a huge topic in Git and requires an entire book just for what you
+can do with branches and how to manage them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02ef4c3" class="outline-3">
+<h3 id="org02ef4c3">Merging</h3>
+<div class="outline-text-3" id="text-org02ef4c3">
+<p>
+What if your branches diverge too much? Merge them!
+</p>
+<div class="warning">
+<p>
+Merging works best with plain text files, see why in <a href="#org210fe8e">Binary vs plain text files</a>
+</p>
+
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org487aa29" class="outline-2">
+<h2 id="org487aa29">Why you need Git</h2>
+<div class="outline-text-2" id="text-org487aa29">
+<p>
+If you do anything on a computer you need to learn how to use Git, I'd even go
+as far as saying that is should be a basic skill everyone needs to know. It
+takes few hours to learn the basics and no more than few days to get used to it,
+but the outcome is astonishing: no more versioned files in the project
+directory, no more fear of losing data and collaborating is way easier.
+</p>
+
+<p>
+The preferred way of learning Git is through the command line. If you're not
+familiar with it, Git also comes with a handy user interface with all the basic
+buttons you need. And if you don't like the one that comes by default, don't
+worry, there are tons of them out there!
+</p>
+
+<p>
+If you wish to take a ride into the Git world, there is a cool game called <a href="https://ohmygit.org">Oh my
+Git</a>. It covers all the basics in a funny and entertaining way.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org210fe8e" class="outline-2">
+<h2 id="org210fe8e">Binary vs plain text files</h2>
+<div class="outline-text-2" id="text-org210fe8e">
+<p>
+One thing to say, Git works best with plain text files, and that's the reason
+why I tried to move away from binary files as much as I could. You can't merge
+binary files without breaking something, although not every file can be used as
+a plain text file. Don't get me wrong, Git <b>does</b> work with binary files and I
+still recommend to do it, as a fact you can stage them, commit them and checkout
+new and old revisions, you just can't get every cool feature that it offers. I
+could keep talking about why you should move to plain text files when writing
+anything on a computer but I'll keep this for another day.
+</p>
+</div>
+
+<div id="outline-container-org3922f23" class="outline-3">
+<h3 id="org3922f23">Files which are plain text include:</h3>
+<div class="outline-text-3" id="text-org3922f23">
+<ul class="org-ul">
+<li><code>txt</code> files</li>
+<li>Most programming languages source code</li>
+<li>Markdown files</li>
+<li>Org-mode files (the one I'm writing on right now)</li>
+<li>Literally any other file which when opened with notepad and doesn't produce
+gibberish.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org28a9894" class="outline-3">
+<h3 id="org28a9894">Files which are <b>not</b> plain text include:</h3>
+<div class="outline-text-3" id="text-org28a9894">
+<ul class="org-ul">
+<li>PDFs</li>
+<li>Every Microsoft Office document type</li>
+<li>Most closed source programming languages</li>
+<li>Mechanical drawings</li>
+<li>Images</li>
+<li>Videos</li>
+<li>Specific programs files</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge388d14" class="outline-2">
+<h2 id="orge388d14">Conclusions</h2>
+<div class="outline-text-2" id="text-orge388d14">
+<p>
+To summarize:
+</p>
+<ul class="org-ul">
+<li>Git offers an opportunity to get rid of all your headaches when working on a
+computer.</li>
+<li>You need to learn Git if you want to easily collaborate and share files.</li>
+<li>It's easy to learn and there is a game called <a href="https://ohmygit.org">Oh my git</a> which covers all the basics.</li>
+<li>Binary files won't give you as much flexibility as plain text files.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2022-03-12</p>
+<p class="author">Author: Daniele Moser</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)</p>
+<p class="validation"></p>
+</div>
+</body>
+</html>
