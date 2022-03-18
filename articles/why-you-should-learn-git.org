@@ -4,10 +4,10 @@
 #+EMAIL: dnlmsr0@gmail.com
 #+DATE: 2022-03-12
 
+* Introduction
 #+ATTR_HTML: :alt Git logo :title Git logo
 [[https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png]]
 
-* Introduction
 Over the course of my journey in Linux I discovered lots of interesting tools
 for production or for everyday tasks. But none of them compared to what Git gave
 me, and I'd even go as far as saying that it completely changed my perspective
