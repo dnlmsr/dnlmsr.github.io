@@ -6,6 +6,10 @@
 
 (org-babel-do-load-languages 'org-babel-load-languages'((shell . t)))
 
+(defun html/preamble (plist)
+  (with-temp-buffer
+    (insert-file-contents "./preamble.html") (buffer-string)))
+
 (setq org-html-validation-link nil
       org-html-head-include-scripts nil
       org-html-head-include-default-style nil
@@ -13,12 +17,14 @@
       org-html-html5-fancy t
       org-html-container-element "main"
       org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\"/>"
+      org-export-with-toc nil
+      org-export-with-author t
+      org-export-with-creator t
+      org-export-with-section-numbers nil
+      org-export-with-timestamps nil
+      org-export-time-stamp-file nil
+      org-export-default-language "en"
       )
-
-(defun html/preamble (plist)
-  (with-temp-buffer
-    (insert-file-contents "./preamble.html") (buffer-string)))
-
 
 (setq org-publish-project-alist
       '(("mosis.xyz"
@@ -26,12 +32,6 @@
          :base-directory "./"
          :publishing-directory "./public"
          :publishing-function org-html-publish-to-html
-         :with-toc nil
-         :with-author t
-         :with-creator t
-         :section-numbers nil
-         :time-stamp-file nil
-         :language en
          :html-preamble html/preamble
          )
         ("blog"
@@ -41,12 +41,6 @@
          :publishing-function org-html-publish-to-html
          :sitemap-filename "index.org"
          :auto-sitemap t
-         :with-toc nil
-         :with-author t
-         :with-creator t
-         :section-numbers nil
-         :time-stamp-file nil
-         :language en
          :html-preamble html/preamble
          )))
 
