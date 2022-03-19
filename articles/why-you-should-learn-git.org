@@ -60,7 +60,23 @@ imagine the mess it would create.
 
 ** Working with other people
 You'll probably have to deal with working with other people once in a while, Git
-makes it easy to do it.
+makes it easy to do it, by working around what is called a centralized
+repository. As an example:
+1. John edits the projects
+2. John uploads the changes on the central repository (or =origin=)
+3. Joe pulls the latest changes from ~origin~
+4. Joe edits the project
+5. Joe uploads the changes on ~origin~
+
+This method ensures two things:
+- The central repository is always up to date
+- If the central repository stops working both John and Joe still have the full
+  history of the project without the need of an online connection
+
+This is just an example of the simplest workflow you can use. There are many of
+them on the internet or you can come up with your own. If you are working on a
+relatively big project I usually suggest using the [[https://nvie.com/posts/a-successful-git-branching-model][git-flow]] method by Vincent
+Driessen.
 
 ** Branching
 Now we're going into the rabbit hole of this tool. Let's say you have a base
