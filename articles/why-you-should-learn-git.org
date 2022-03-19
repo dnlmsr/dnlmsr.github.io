@@ -9,9 +9,9 @@
 [[https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png]]
 
 Over the course of my journey in Linux I discovered lots of interesting tools
-for production or for everyday tasks. But none of them compared to what Git gave
-me, and I'd even go as far as saying that it completely changed my perspective
-of working on a PC.
+for production or for everyday tasks. But none of them compared to what *Git*
+gave me, and I'd even go as far as saying that it completely changed my
+perspective of working on a PC.
 
 #+begin_info
 *Warning* \\
@@ -60,7 +60,23 @@ imagine the mess it would create.
 
 ** Working with other people
 You'll probably have to deal with working with other people once in a while, Git
-makes it easy to do it.
+makes it easy to do it, by working around what is called a centralized
+repository. As an example:
+1. John edits the projects
+2. John uploads the changes on the central repository (or =origin=)
+3. Joe pulls the latest changes from ~origin~
+4. Joe edits the project
+5. Joe uploads the changes on ~origin~
+
+This method ensures two things:
+- The central repository is always up to date
+- If the central repository stops working both John and Joe still have the full
+  history of the project without the need of an online connection
+
+This is just an example of the simplest workflow you can use. There are many of
+them on the internet or you can come up with your own. If you are working on a
+relatively big project I usually suggest using the [[https://nvie.com/posts/a-successful-git-branching-model][git-flow]] method by Vincent
+Driessen.
 
 ** Branching
 Now we're going into the rabbit hole of this tool. Let's say you have a base
@@ -97,7 +113,7 @@ Git]]. It covers all the basics in a funny and entertaining way.
 One thing to say, Git works best with plain text files, and that's the reason
 why I tried to move away from binary files as much as I could. You can't merge
 binary files without breaking something, although not every file can be used as
-a plain text file. Don't get me wrong, Git *does* work with binary files and I
+a plain text file. Don't get me wrong, Git *does work* with binary files and I
 still recommend to do it, as a fact you can stage them, commit them and checkout
 new and old revisions, you just can't get every cool feature that it offers. I
 could keep talking about why you should move to plain text files when writing
