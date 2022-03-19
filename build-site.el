@@ -40,6 +40,7 @@
          :publishing-directory "./public/articles"
          :publishing-function org-html-publish-to-html
          :sitemap-filename "index.org"
+         :sitemap-title "Blog and articles"
          :auto-sitemap t
          :html-preamble html/preamble
          )))
