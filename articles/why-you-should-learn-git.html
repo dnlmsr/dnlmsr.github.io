@@ -24,9 +24,9 @@
 <header>
 <h1 class="title">Here's why you should learn Git</h1>
 </header>
-<main id="outline-container-org1e0eed4" class="outline-2">
-<h2 id="org1e0eed4">Introduction</h2>
-<div class="outline-text-2" id="text-org1e0eed4">
+<main id="outline-container-org4757d9c" class="outline-2">
+<h2 id="org4757d9c">Introduction</h2>
+<div class="outline-text-2" id="text-org4757d9c">
 
 <figure>
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git logo" title="Git logo">
@@ -35,9 +35,9 @@
 
 <p>
 Over the course of my journey in Linux I discovered lots of interesting tools
-for production or for everyday tasks. But none of them compared to what Git gave
-me, and I'd even go as far as saying that it completely changed my perspective
-of working on a PC.
+for production or for everyday tasks. But none of them compared to what <b>Git</b>
+gave me, and I'd even go as far as saying that it completely changed my
+perspective of working on a PC.
 </p>
 
 <div class="info">
@@ -51,9 +51,9 @@ this article is about my point of view on Git.
 </div>
 </main>
 
-<main id="outline-container-orgf2df5ab" class="outline-2">
-<h2 id="orgf2df5ab">Example</h2>
-<div class="outline-text-2" id="text-orgf2df5ab">
+<main id="outline-container-org86966b4" class="outline-2">
+<h2 id="org86966b4">Example</h2>
+<div class="outline-text-2" id="text-org86966b4">
 <p>
 Let's say you're working on a software project, or even a project which isn't
 necessarily code based such as a writing or a mechanical or electrical drawing.
@@ -79,9 +79,9 @@ Mercurial, CVS, SVN and others, but the most popular and well known is <b>Git</b
 </div>
 </main>
 
-<main id="outline-container-orga16f14d" class="outline-2">
-<h2 id="orga16f14d">What does Git solve</h2>
-<div class="outline-text-2" id="text-orga16f14d">
+<main id="outline-container-orgecd1af5" class="outline-2">
+<h2 id="orgecd1af5">What does Git solve</h2>
+<div class="outline-text-2" id="text-orgecd1af5">
 <p>
 Git basically takes care of versioning your project for you, without even
 noticing. Actually, you have to tell him when to store a new version of the
@@ -90,36 +90,36 @@ directory. I will now list some problems it solves:
 </p>
 </div>
 
-<div id="outline-container-org67c354a" class="outline-3">
-<h3 id="org67c354a">Saving every version of the file</h3>
-<div class="outline-text-3" id="text-org67c354a">
+<div id="outline-container-org5c6884b" class="outline-3">
+<h3 id="org5c6884b">Saving every version of the file</h3>
+<div class="outline-text-3" id="text-org5c6884b">
 <p>
 Well, that's basically what Git is intended for.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgba414d4" class="outline-3">
-<h3 id="orgba414d4">Showing a log of the versions</h3>
-<div class="outline-text-3" id="text-orgba414d4">
+<div id="outline-container-org344a4f2" class="outline-3">
+<h3 id="org344a4f2">Showing a log of the versions</h3>
+<div class="outline-text-3" id="text-org344a4f2">
 <p>
 Git can show you a log of all the versions and who uploaded it.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgf43390c" class="outline-3">
-<h3 id="orgf43390c">Showing the difference between two versions</h3>
-<div class="outline-text-3" id="text-orgf43390c">
+<div id="outline-container-orgbf45c52" class="outline-3">
+<h3 id="orgbf45c52">Showing the difference between two versions</h3>
+<div class="outline-text-3" id="text-orgbf45c52">
 <p>
 Git can show you what you added and deleted to a file
 </p>
 </div>
 </div>
 
-<div id="outline-container-org5ca1bc8" class="outline-3">
-<h3 id="org5ca1bc8">Manage multiple files</h3>
-<div class="outline-text-3" id="text-org5ca1bc8">
+<div id="outline-container-org483684b" class="outline-3">
+<h3 id="org483684b">Manage multiple files</h3>
+<div class="outline-text-3" id="text-org483684b">
 <p>
 Imagine applying the example before with two different files, I won't even
 imagine the mess it would create.
@@ -127,19 +127,43 @@ imagine the mess it would create.
 </div>
 </div>
 
-<div id="outline-container-org8ffe4bc" class="outline-3">
-<h3 id="org8ffe4bc">Working with other people</h3>
-<div class="outline-text-3" id="text-org8ffe4bc">
+<div id="outline-container-orged21d66" class="outline-3">
+<h3 id="orged21d66">Working with other people</h3>
+<div class="outline-text-3" id="text-orged21d66">
 <p>
 You'll probably have to deal with working with other people once in a while, Git
-makes it easy to do it.
+makes it easy to do it, by working around what is called a centralized
+repository. As an example:
+</p>
+<ol class="org-ol">
+<li>John edits the projects</li>
+<li>John uploads the changes on the central repository (or <code>origin</code>)</li>
+<li>Joe pulls the latest changes from <code>origin</code></li>
+<li>Joe edits the project</li>
+<li>Joe uploads the changes on <code>origin</code></li>
+</ol>
+
+<p>
+This method ensures two things:
+</p>
+<ul class="org-ul">
+<li>The central repository is always up to date</li>
+<li>If the central repository stops working both John and Joe still have the full
+history of the project without the need of an online connection</li>
+</ul>
+
+<p>
+This is just an example of the simplest workflow you can use. There are many of
+them on the internet or you can come up with your own. If you are working on a
+relatively big project I usually suggest using the <a href="https://nvie.com/posts/a-successful-git-branching-model">git-flow</a> method by Vincent
+Driessen.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org3ee5cd4" class="outline-3">
-<h3 id="org3ee5cd4">Branching</h3>
-<div class="outline-text-3" id="text-org3ee5cd4">
+<div id="outline-container-orgd6cc3ee" class="outline-3">
+<h3 id="orgd6cc3ee">Branching</h3>
+<div class="outline-text-3" id="text-orgd6cc3ee">
 <p>
 Now we're going into the rabbit hole of this tool. Let's say you have a base
 version of your project, but you want two different versions of it: one with a
@@ -155,15 +179,15 @@ can do with branches and how to manage them.
 </div>
 </div>
 
-<div id="outline-container-org68e6d25" class="outline-3">
-<h3 id="org68e6d25">Merging</h3>
-<div class="outline-text-3" id="text-org68e6d25">
+<div id="outline-container-org7ecc169" class="outline-3">
+<h3 id="org7ecc169">Merging</h3>
+<div class="outline-text-3" id="text-org7ecc169">
 <p>
 What if your branches diverge too much? Merge them!
 </p>
 <div class="warning">
 <p>
-Merging works best with plain text files, see why in <a href="#org29894df">Binary vs plain text files</a>
+Merging works best with plain text files, see why in <a href="#org3da21b7">Binary vs plain text files</a>
 </p>
 
 </div>
@@ -171,9 +195,9 @@ Merging works best with plain text files, see why in <a href="#org29894df">Binar
 </div>
 </main>
 
-<main id="outline-container-orgac2d7fe" class="outline-2">
-<h2 id="orgac2d7fe">Why you need Git</h2>
-<div class="outline-text-2" id="text-orgac2d7fe">
+<main id="outline-container-org6c75e50" class="outline-2">
+<h2 id="org6c75e50">Why you need Git</h2>
+<div class="outline-text-2" id="text-org6c75e50">
 <p>
 If you do anything on a computer you need to learn how to use Git, I'd even go
 as far as saying that is should be a basic skill everyone needs to know. It
@@ -196,14 +220,14 @@ Git</a>. It covers all the basics in a funny and entertaining way.
 </div>
 </main>
 
-<main id="outline-container-org29894df" class="outline-2">
-<h2 id="org29894df">Binary vs plain text files</h2>
-<div class="outline-text-2" id="text-org29894df">
+<main id="outline-container-org3da21b7" class="outline-2">
+<h2 id="org3da21b7">Binary vs plain text files</h2>
+<div class="outline-text-2" id="text-org3da21b7">
 <p>
 One thing to say, Git works best with plain text files, and that's the reason
 why I tried to move away from binary files as much as I could. You can't merge
 binary files without breaking something, although not every file can be used as
-a plain text file. Don't get me wrong, Git <b>does</b> work with binary files and I
+a plain text file. Don't get me wrong, Git <b>does work</b> with binary files and I
 still recommend to do it, as a fact you can stage them, commit them and checkout
 new and old revisions, you just can't get every cool feature that it offers. I
 could keep talking about why you should move to plain text files when writing
@@ -211,9 +235,9 @@ anything on a computer but I'll keep this for another day.
 </p>
 </div>
 
-<div id="outline-container-org4e0e426" class="outline-3">
-<h3 id="org4e0e426">Files which are plain text include:</h3>
-<div class="outline-text-3" id="text-org4e0e426">
+<div id="outline-container-org551282a" class="outline-3">
+<h3 id="org551282a">Files which are plain text include:</h3>
+<div class="outline-text-3" id="text-org551282a">
 <ul class="org-ul">
 <li><code>txt</code> files</li>
 <li>Most programming languages source code</li>
@@ -225,9 +249,9 @@ gibberish.</li>
 </div>
 </div>
 
-<div id="outline-container-org1a7b086" class="outline-3">
-<h3 id="org1a7b086">Files which are <b>not</b> plain text include:</h3>
-<div class="outline-text-3" id="text-org1a7b086">
+<div id="outline-container-org9b275d7" class="outline-3">
+<h3 id="org9b275d7">Files which are <b>not</b> plain text include:</h3>
+<div class="outline-text-3" id="text-org9b275d7">
 <ul class="org-ul">
 <li>PDFs</li>
 <li>Every Microsoft Office document type</li>
@@ -241,9 +265,9 @@ gibberish.</li>
 </div>
 </main>
 
-<main id="outline-container-orgf769702" class="outline-2">
-<h2 id="orgf769702">Conclusions</h2>
-<div class="outline-text-2" id="text-orgf769702">
+<main id="outline-container-orgb794cbb" class="outline-2">
+<h2 id="orgb794cbb">Conclusions</h2>
+<div class="outline-text-2" id="text-orgb794cbb">
 <p>
 To summarize:
 </p>
@@ -260,7 +284,6 @@ computer.</li>
 <div id="postamble" class="status">
 <p class="date">Date: 2022-03-12</p>
 <p class="author">Author: Daniele Moser</p>
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)</p>
 <p class="validation"></p>
 </div>
 </body>
