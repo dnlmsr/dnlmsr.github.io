@@ -19,7 +19,7 @@
       org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\"/>"
       org-export-with-toc nil
       org-export-with-author t
-      org-export-with-creator t
+      org-export-with-creator nil
       org-export-with-section-numbers nil
       org-export-with-timestamps nil
       org-export-time-stamp-file nil
