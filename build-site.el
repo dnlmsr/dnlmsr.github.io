@@ -17,6 +17,7 @@
       org-html-html5-fancy t
       org-html-container-element "main"
       org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\"/>"
+      org-html-head-extra "<link rel=\"stylesheet\" href=\"/stylesheet.css\"/>"
       org-export-with-toc nil
       org-export-with-author t
       org-export-with-creator nil
@@ -46,5 +47,6 @@
          )))
 
 (org-publish-all t)
+(copy-file "stylesheet.css" "public/stylesheet.css")
 
 (message "Build complete!")
