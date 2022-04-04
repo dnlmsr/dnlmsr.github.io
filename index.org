@@ -3,8 +3,8 @@
 #+EMAIL: dnlmsr0@gmail.com
 
 - 🎛️ Electrnoics enthusiast
-- 👨‍💻 Casual programmer
-- 👨‍🚒 Firefighter
+- 👨‍💻 Embedded programmer
+- 👨‍🚒 Local firefighter
 - 🗺️ Proud OpenStreetMap contributor ([[https://hdyc.neis-one.org/?mosis99][stats]] and [[https://www.openstreetmap.org/user/mosis99][profile]])
 
 * 📧 Contacts
