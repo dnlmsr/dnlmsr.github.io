@@ -1,4 +1,4 @@
-#+TITLE: CV
+#+TITLE: Curriculum Vitae
 #+DESCRIPTION: Me medesimo meco
 #+AUTHOR: Daniele Moser
 #+EMAIL: dnlmsr0@gmail.com
