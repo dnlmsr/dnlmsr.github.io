@@ -1,6 +1,5 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/emacs
-# Edit at https://www.toptal.com/developers/gitignore?templates=emacs
+# Created by https://www.toptal.com/developers/gitignore/api/hugo,emacs
+# Edit at https://www.toptal.com/developers/gitignore?templates=hugo,emacs
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
@@ -53,8 +52,19 @@ flycheck_*.el
 /network-security.data
 
 
-# End of https://www.toptal.com/developers/gitignore/api/emacs
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
-# Exported org mode pages
-public/
-index.org
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
+
+# End of https://www.toptal.com/developers/gitignore/api/hugo,emacs
