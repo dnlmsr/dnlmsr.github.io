@@ -1,0 +1,8 @@
+:root {
+    --accent: green;
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --accent: lime;
+    }
+}
