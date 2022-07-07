@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css"/>
-		<link rel="stylesheet" href="/stylesheet.css"/>
-		<title>{{ .Title }}</title>
-	</head>
+	{{ partial "site-head.html" }}
 	<body>
 		{{ partial "site-header.html" . }}
 		{{ .Content }}
