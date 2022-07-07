@@ -1,0 +1,9 @@
+<header>
+	<h1>mosis.xyz</h1>
+	<nav>
+		<a href="{{.Site.Home.Permalink}}">Home</a>
+		{{ range .Site.Home.Pages }}
+		<a href="{{.Permalink}}">{{ .Title}}</a>
+		{{ end }}
+	</nav>
+</header>
