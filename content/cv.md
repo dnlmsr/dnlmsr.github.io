@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 🙋‍♂️ Who am I
 =============
 
-Hi, I\'m Daniele, I\'m a 22 year old guy based in Trentino, Italy. I
+Hi, I'm Daniele, I'm a 22 year old guy based in Trentino, Italy. I
 work as an electronic designer and embedded software developer in
 [LEOS](http://www.leos-instruments.com) where my daily work consists of
 production management of the electronics which control lasers for
@@ -55,7 +55,7 @@ High school degree in Electronics and Automation (2015 - 2018)
 --------------------------------------------------------------
 
 I graduated in 2018 in Electronics and Automation, my thesis was about a
-project of a Rubik\'s cube solver, where I covered most of the
+project of a Rubik's cube solver, where I covered most of the
 electronics and programming.
 
 Alta Formazione Professionale in Mechatronics and Automation (2018 - 2020)
