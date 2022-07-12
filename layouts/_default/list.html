@@ -6,8 +6,9 @@
 		{{ .Content }}
 		<ul>
 		{{ range .Pages }}
-		<li><a href="{{.Permalink}}">{{ .Title}}</li>
+		<li><a href="{{.Permalink}}">{{ .Title }}</a></li>
 		{{ end }}
 		</ul>
+    {{ partial "site-footer.html" . }}
 	</body>
 </html>
