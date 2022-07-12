@@ -35,18 +35,23 @@ some skills I know:
 🖥️ Informatics
 --------------
 
-I have always found the IT world to be fascinating, as a fact I spend
-lot of my free time discovering new things on this subject. I am also a
-fan of open source software and anything that revolves around it, and I
-always try to find open source alternatives to get my job done. These
-below are some tools and programs I learned in my lifetime:
+I have always found the IT world to be fascinating, as a fact I spend lot of my
+free time discovering new things on this subject. I am also a fan of open source
+software and anything that revolves around it, and I always try to find open
+source alternatives to get my job done. These below are some tools and programs
+I learned in my lifetime:
 
--   Linux
--   Git
--   KiCad
--   C for embedded systems
--   LaTeX
--   Python
+- Linux
+- Git
+- KiCad
+- C for embedded systems (mostly using the Arduino framework)
+- LaTeX
+- Python
+- Rust (beginner level, still learning it)
+- HTML & CSS (beginner level)
+
+I use Linux (arch btw) as my daily driver, and I'm pretty confident with the
+tools revolving around it.
 
 🎓 Education
 ===========
