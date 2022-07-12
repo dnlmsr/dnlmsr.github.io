@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 ---
-🙋‍♂️ Who am I
+🙋🏼‍♂️ Who am I
 =============
 
 Hi, I'm Daniele, I'm a 22 year old guy based in Trentino, Italy. I
@@ -74,7 +74,7 @@ also managed to build some work experience.
 My thesis revolved around the digitization process of the production
 facility and lean production methods used in the factory.
 
-👨‍💻 Work experience
+👨🏼‍💻 Work experience
 ===================
 
 LEOS S.r.l. (January 2021 - today) {#work-leos}
