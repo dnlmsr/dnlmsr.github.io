@@ -45,7 +45,7 @@ below are some tools and programs I learned in my lifetime:
 -   Git
 -   KiCad
 -   C for embedded systems
--   Latex
+-   LaTeX
 -   Python
 
 🎓 Education
