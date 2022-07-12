@@ -7,6 +7,7 @@ title: "Daniele Moser"
 - 🗺️ Proud OpenStreetMap contributor
     ([stats](https://hdyc.neis-one.org/?mosis99) and
     [profile](https://www.openstreetmap.org/user/mosis99))
+- 🐧 Linux user
 
 📧 Contacts
 ==========
