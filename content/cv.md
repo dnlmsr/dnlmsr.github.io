@@ -75,9 +75,17 @@ facility and lean production methods used in the factory.
 LEOS S.r.l. (January 2021 - today) {#work-leos}
 -------------------------------------------------
 
-I am currently working in a production environment where I manage the
-production and quality assurance of the electronics which control laser
-heads used for spectroscopy purposes.
+I am currently working in a production environment where I manage the production
+and quality assurance of the electronics which control laser heads used for
+spectroscopy purposes. I also maintain the company network and documentation system, which
+is based on the free and open source software
+[mediawiki](https://www.mediawiki.org/wiki/MediaWiki).
+Other tasks include:
+- Production of electronic controllers;
+- Managing the controller software driven by Linux;
+- Programming embedded electronics;
+- Inventory management;
+- Writing instructions for production.
 
 BLM group (8 months in 2019 - 2020) {#work-blm}
 -------------------------------------------------
