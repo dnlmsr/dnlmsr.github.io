@@ -1,10 +1,10 @@
 ---
 title: "Daniele Moser"
 ---
--   🎛️ Electrnoics enthusiast
--   👨‍💻 Embedded programmer
--   👨‍🚒 Local firefighter
--   🗺️ Proud OpenStreetMap contributor
+- 🎛️ Electrnoics enthusiast
+- 👨🏼‍💻 Embedded programmer
+- 👨🏼‍🚒 Local firefighter
+- 🗺️ Proud OpenStreetMap contributor
     ([stats](https://hdyc.neis-one.org/?mosis99) and
     [profile](https://www.openstreetmap.org/user/mosis99))
 
