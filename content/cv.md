@@ -121,6 +121,27 @@ I worked as an intern in a PCB production company, where I learned the
 basics of THT and SMD soldering. Furthermore this was the first time I
 managed to see the production and testing process of PCBs.
 
+🌍 Languages
+============
+- 🇮🇹 Italian (native)
+- 🇬🇧 English (C1 level)
+
+📜 Certificates
+============
+
+Driving licences
+----------------
+- 🚗 B
+- 🚚 C (almost done)
+
+Languages
+---------
+- 🇬🇧 Cambridge CAE
+
+🏅 Recognition
+============
+- **Most innovative project**, *First Lego League Italian Finals*, march 2016
+
 📧 Contacts
 ==========
 
