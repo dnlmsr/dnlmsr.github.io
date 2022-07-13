@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="{{ .Lang }}">
-	{{ partial "site-head.html" . }}
-	<body>
-		{{ partial "site-header.html" . }}
+{{ define "main" }}
+		<h1>{{ .Title }}</h1>
+		<p>{{ .Description }}<p>
 		{{ .Content }}
 		<ul>
 		{{ range .Pages }}
 		<li><a href="{{.Permalink}}">{{ .Title }}</a></li>
 		{{ end }}
 		</ul>
-    {{ partial "site-footer.html" . }}
-	</body>
-</html>
+{{ end }}

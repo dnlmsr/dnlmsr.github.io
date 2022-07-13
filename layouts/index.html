@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html lang="{{ .Lang }}">
-	{{ partial "site-head.html" . }}
-	<body>
-		{{ partial "site-header.html" . }}
+{{ define "main" }}
+		<h1>{{ .Title }}</h1>
+		<p>{{ .Description }}<p>
 		{{ .Content }}
-    {{ partial "site-footer.html" . }}
-	</body>
-</html>
+		</ul>
+{{ end }}
