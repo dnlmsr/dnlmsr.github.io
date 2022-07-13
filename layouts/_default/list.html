@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html lang="{{ .Lang }}">
-	{{ partial "site-head.html" . }}
-	<body>
-		{{ partial "site-header.html" . }}
-		{{ .Content }}
+{{ define "main" }}
+{{ partial "base-article.html" . }}
 		<ul>
 		{{ range .Pages }}
-		<li><a href="{{.Permalink}}">{{ .Title}}</li>
+		<li><a href="{{.Permalink}}">{{ .Title }}</a></li>
 		{{ end }}
 		</ul>
-	</body>
-</html>
+{{ end }}

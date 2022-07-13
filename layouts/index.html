@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="{{ .Lang }}">
-	{{ partial "site-head.html" . }}
-	<body>
-		{{ partial "site-header.html" . }}
-		{{ .Content }}
-	</body>
-</html>
+{{ define "main" }}
+        {{ partial "base-article" . }}
+{{ end }}

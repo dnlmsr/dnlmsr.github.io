@@ -1,16 +1,18 @@
 ---
 title: "Daniele Moser"
 ---
--   🎛️ Electrnoics enthusiast
--   👨‍💻 Embedded programmer
--   👨‍🚒 Local firefighter
--   🗺️ Proud OpenStreetMap contributor
+- 🎛️ Electrnoics enthusiast
+- 👨🏼‍💻 Embedded programmer
+- 👨🏼‍🚒 Local firefighter
+- 🗺️ Proud OpenStreetMap contributor
     ([stats](https://hdyc.neis-one.org/?mosis99) and
     [profile](https://www.openstreetmap.org/user/mosis99))
+- 🐧 Linux user
 
 📧 Contacts
 ==========
 
--   Email: <dnlmsr0@gmail.com>
--   LinkedIn: [dan-mos](https://www.linkedin.com/in/dan-mos)
--   GitHub: [dnlmsr](https://github.com/dnlmsr)
+- Email: <dnlmsr0@gmail.com>
+- Telegram: [@dnlmsr](https://t.me/dnlmsr)
+- LinkedIn: [dan-mos](https://www.linkedin.com/in/dan-mos)
+- GitHub: [dnlmsr](https://github.com/dnlmsr)
