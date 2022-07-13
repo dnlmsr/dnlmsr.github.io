@@ -56,13 +56,6 @@ tools revolving around it.
 🎓 Education
 ===========
 
-High school degree in Electronics and Automation (2015 - 2018)
---------------------------------------------------------------
-
-I graduated in 2018 in Electronics and Automation, my thesis was about a
-project of a Rubik's cube solver, where I covered most of the
-electronics and programming.
-
 Alta Formazione Professionale in Mechatronics and Automation (2018 - 2020)
 --------------------------------------------------------------------------
 
@@ -73,6 +66,13 @@ also managed to build some work experience.
 
 My thesis revolved around the digitization process of the production
 facility and lean production methods used in the factory.
+
+High school degree in Electronics and Automation (2015 - 2018)
+--------------------------------------------------------------
+
+I graduated in 2018 in Electronics and Automation, my thesis was about a
+project of a Rubik's cube solver, where I covered most of the
+electronics and programming.
 
 👨🏼‍💻 Work experience
 ===================
