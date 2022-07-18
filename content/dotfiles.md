@@ -1,7 +1,6 @@
 ---
 title: "Dotfiles"
 date: 2022-07-15T14:00:19+02:00
-draft: true
 ---
 
 What are dotfiles
