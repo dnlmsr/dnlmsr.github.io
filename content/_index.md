@@ -9,8 +9,7 @@ title: "Daniele Moser"
     [profile](https://www.openstreetmap.org/user/mosis99))
 - 🐧 Linux user
 
-📧 Contacts
-==========
+## 📧 Contacts
 
 - Email: <dnlmsr0@gmail.com>
 - Telegram: [@dnlmsr](https://t.me/dnlmsr)
