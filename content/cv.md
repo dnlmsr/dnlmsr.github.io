@@ -1,5 +1,7 @@
 ---
 title: "Curriculum Vitae"
+date: "2022-07-13T14:38:20+02:00"
+weight: 2
 ---
 🙋🏼‍♂️ Who am I
 =============
