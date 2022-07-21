@@ -4,8 +4,7 @@ description: "A few reasons on why you should make use of the most popular VCS, 
 date: "2022-03-12"
 ---
 
-Introduction
-============
+## Introduction
 
 ![Git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
@@ -18,8 +17,7 @@ completely changed my perspective of working on a PC.
 This is not a guide on how to use Git, there are tons of good guides out
 there, this article is about my point of view on Git.
 
-Example
-=======
+## Example
 
 Let\'s say you\'re working on a software project, or even a project
 which isn\'t necessarily code based such as a writing or a mechanical or
@@ -43,37 +41,31 @@ for that particular change you probably even deleted. There are lots of
 VCSs out there like Mercurial, CVS, SVN and others, but the most popular
 and well known is **Git**.
 
-What does Git solve
-===================
+## What does Git solve
 
 Git basically takes care of versioning your project for you, without
 even noticing. Actually, you have to tell him when to store a new
 version of the file, but you surely won\'t have tons of final versions
 in your project directory. I will now list some problems it solves:
 
-Saving every version of the file
---------------------------------
+### Saving every version of the file
 
 Well, that\'s basically what Git is intended for.
 
-Showing a log of the versions
------------------------------
+### Showing a log of the versions
 
 Git can show you a log of all the versions and who uploaded it.
 
-Showing the difference between two versions
--------------------------------------------
+### Showing the difference between two versions
 
 Git can show you what you added and deleted to a file
 
-Manage multiple files
----------------------
+### Manage multiple files
 
 Imagine applying the example before with two different files, I won\'t
 even imagine the mess it would create.
 
-Working with other people
--------------------------
+### Working with other people
 
 You\'ll probably have to deal with working with other people once in a
 while, Git makes it easy to do it, by working around what is called a
@@ -98,8 +90,7 @@ are working on a relatively big project I usually suggest using the
 [git-flow](https://nvie.com/posts/a-successful-git-branching-model)
 method by Vincent Driessen.
 
-Branching
----------
+### Branching
 
 Now we\'re going into the rabbit hole of this tool. Let\'s say you have
 a base version of your project, but you want two different versions of
@@ -110,8 +101,7 @@ a new desired version on each branch.
 Branching is a huge topic in Git and requires an entire book just for
 what you can do with branches and how to manage them.
 
-Merging
--------
+### Merging
 
 What if your branches diverge too much? Merge them!
 
@@ -119,8 +109,7 @@ What if your branches diverge too much? Merge them!
 Merging works best with plain text files, see why in
 [Binary vs plain text files](#binary-text)
 
-Why you need Git
-================
+## Why you need Git
 
 If you do anything on a computer you need to learn how to use Git, I\'d
 even go as far as saying that is should be a basic skill everyone needs
@@ -138,8 +127,7 @@ If you wish to take a ride into the Git world, there is a cool game
 called [Oh my Git](https://ohmygit.org). It covers all the basics in a
 funny and entertaining way.
 
-Binary vs plain text files {#binary-text}
-==========================
+## Binary vs plain text files {#binary-text}
 
 One thing to say, Git works best with plain text files, and that\'s the
 reason why I tried to move away from binary files as much as I could.
@@ -151,8 +139,7 @@ you just can\'t get every cool feature that it offers. I could keep
 talking about why you should move to plain text files when writing
 anything on a computer but I\'ll keep this for another day.
 
-Files which are plain text include:
------------------------------------
+### Files which are plain text include:
 
 -   `txt` files
 -   Most programming languages source code
@@ -161,8 +148,7 @@ Files which are plain text include:
 -   Literally any other file which when opened with notepad and doesn\'t
     produce gibberish.
 
-Files which are **not** plain text include:
--------------------------------------------
+### Files which are **not** plain text include:
 
 -   PDFs
 -   Every Microsoft Office document type
@@ -172,8 +158,7 @@ Files which are **not** plain text include:
 -   Videos
 -   Specific programs files
 
-Conclusions
-===========
+## Conclusions
 
 To summarize:
 
