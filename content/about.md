@@ -1,7 +1,7 @@
 ---
 title: "About this website"
 date: 2022-07-15T13:51:25+02:00
-draft: true
+weight: 4
 ---
 
 # Why I own my website
