@@ -1,3 +1,287 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniele Moser on mosis.xyz</title><link>https://mosis.xyz/</link><description>Recent content in Daniele Moser on mosis.xyz</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mosis.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>Here's why you should learn Git</title><link>https://mosis.xyz/blog/why-you-should-learn-git/</link><pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate><guid>https://mosis.xyz/blog/why-you-should-learn-git/</guid><description>Introduction Over the course of my journey in Linux I discovered lots of interesting tools for production or for everyday tasks. But none of them compared to what Git gave me, and I'd even go as far as saying that it completely changed my perspective of working on a PC.
-Warning This is not a guide on how to use Git, there are tons of good guides out there, this article is about my point of view on Git.</description></item><item><title>Curriculum Vitae</title><link>https://mosis.xyz/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mosis.xyz/cv/</guid><description>🙋🏼‍♂️ Who am I Hi, I&amp;rsquo;m Daniele, I&amp;rsquo;m a 22 year old guy based in Trentino, Italy. I work as an electronic designer and embedded software developer in LEOS where my daily work consists of production management of the electronics which control lasers for spectroscopy purposes (you can find more info in the work section).
-In my free time, you can find me running in the mountains, growing new technical skills but most importantly being a volunteer firefighter 🚒.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniele Moser on mosis.xyz</title><link>https://mosis.xyz/</link><description>Recent content in Daniele Moser on mosis.xyz</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mosis.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://mosis.xyz/cv/</link><pubDate>Wed, 13 Jul 2022 14:38:20 +0200</pubDate><guid>https://mosis.xyz/cv/</guid><description>&lt;h1 id="-who-am-i">🙋🏼‍♂️ Who am I&lt;/h1>
+&lt;p>Hi, I&amp;rsquo;m Daniele, I&amp;rsquo;m a 22 year old guy based in Trentino, Italy. I
+work as an electronic designer and embedded software developer in
+&lt;a href="http://www.leos-instruments.com">LEOS&lt;/a> where my daily work consists of
+production management of the electronics which control lasers for
+spectroscopy purposes (you can find more info in the &lt;a href="#work-leos">work
+section&lt;/a>).&lt;/p>
+&lt;p>In my free time, you can find me running in the mountains, growing new
+technical skills but most importantly being a volunteer firefighter 🚒.&lt;/p>
+&lt;h1 id="-technical-knowledge">🛠️ Technical knowledge&lt;/h1>
+&lt;p>My technical skills are all centered around electronics and programming.&lt;/p>
+&lt;h2 id="-electronics">💡 Electronics&lt;/h2>
+&lt;p>I studied electronics and automation in high school, after that I took a
+2-year course in automation and mechatronics, where I also found
+interests in production management and lean production methods. Here are
+some skills I know:&lt;/p>
+&lt;ul>
+&lt;li>PCB design, mostly done with KiCad&lt;/li>
+&lt;li>PCB production and production management&lt;/li>
+&lt;li>SMD and THT soldering&lt;/li>
+&lt;li>Embedded boards programming&lt;/li>
+&lt;/ul>
+&lt;h2 id="-informatics">🖥️ Informatics&lt;/h2>
+&lt;p>I have always found the IT world to be fascinating, as a fact I spend lot of my
+free time discovering new things on this subject. I am also a fan of open source
+software and anything that revolves around it, and I always try to find open
+source alternatives to get my job done. These below are some tools and programs
+I learned in my lifetime:&lt;/p>
+&lt;ul>
+&lt;li>Linux&lt;/li>
+&lt;li>Git&lt;/li>
+&lt;li>KiCad&lt;/li>
+&lt;li>C for embedded systems (mostly using the Arduino framework)&lt;/li>
+&lt;li>LaTeX&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Rust (beginner level, still learning it)&lt;/li>
+&lt;li>HTML &amp;amp; CSS (beginner level)&lt;/li>
+&lt;/ul>
+&lt;p>I use Linux (arch btw) as my daily driver, and I&amp;rsquo;m pretty confident with the
+tools revolving around it.&lt;/p>
+&lt;h1 id="-education">🎓 Education&lt;/h1>
+&lt;h2 id="alta-formazione-professionale-in-mechatronics-and-automation-2018---2020">Alta Formazione Professionale in Mechatronics and Automation (2018 - 2020)&lt;/h2>
+&lt;p>I also took a 2 year course in Mechatronics and Automation. This course
+alternates lessons with 8 months of internship (you can find more info
+in the &lt;a href="#work-blm">work section&lt;/a>) so not only studying is involved but I
+also managed to build some work experience.&lt;/p>
+&lt;p>My thesis revolved around the digitization process of the production
+facility and lean production methods used in the factory.&lt;/p>
+&lt;h2 id="high-school-degree-in-electronics-and-automation-2015---2018">High school degree in Electronics and Automation (2015 - 2018)&lt;/h2>
+&lt;p>I graduated in 2018 in Electronics and Automation, my thesis was about a
+project of a Rubik&amp;rsquo;s cube solver, where I covered most of the
+electronics and programming.&lt;/p>
+&lt;h1 id="-work-experience">👨🏼‍💻 Work experience&lt;/h1>
+&lt;h2 id="work-leos">LEOS S.r.l. (January 2021 - today)&lt;/h2>
+&lt;p>I am currently working in a production environment where I manage the production
+and quality assurance of the electronics which control laser heads used for
+spectroscopy purposes. I also maintain the company network and documentation system, which
+is based on the free and open source software
+&lt;a href="https://www.mediawiki.org/wiki/MediaWiki">mediawiki&lt;/a>.
+Other tasks include:&lt;/p>
+&lt;ul>
+&lt;li>Production of electronic controllers;&lt;/li>
+&lt;li>Managing the controller software driven by Linux;&lt;/li>
+&lt;li>Programming embedded electronics;&lt;/li>
+&lt;li>Inventory management;&lt;/li>
+&lt;li>Writing instructions for production.&lt;/li>
+&lt;/ul>
+&lt;h2 id="work-blm">BLM group (8 months in 2019 - 2020)&lt;/h2>
+&lt;p>I worked as a intern in Adige S.p.a. where I performed various tasks in
+the production facility of laser cutting machinery. The tasks include:&lt;/p>
+&lt;ul>
+&lt;li>Inventory management&lt;/li>
+&lt;li>Production of mechanical pieces with CNC machines&lt;/li>
+&lt;li>Followed the full production start to finish (both mechanical and
+electric) of a laser tube-cutting machine&lt;/li>
+&lt;/ul>
+&lt;p>Most importantly, I followed the digitization process of the production
+facility, which aimed to better estimate the production status of each
+machine. Furthermore I took part in the realization of a proof of
+concept of digitization of the building procedures.&lt;/p>
+&lt;h2 id="ace-control-systems-ltd-august-2017">ACE control systems LTD (August 2017)&lt;/h2>
+&lt;p>I worked as an intern in Ireland which was part of a school project. I
+worked in a workshop mostly doing cabling of electrical cabinets.&lt;/p>
+&lt;h2 id="tretec-srl-june-2017">Tretec S.r.l. (June 2017)&lt;/h2>
+&lt;p>I worked as an intern in a PCB production company, where I learned the
+basics of THT and SMD soldering. Furthermore this was the first time I
+managed to see the production and testing process of PCBs.&lt;/p>
+&lt;h1 id="-languages">🌍 Languages&lt;/h1>
+&lt;ul>
+&lt;li>🇮🇹 Italian (native)&lt;/li>
+&lt;li>🇬🇧 English (C1 level)&lt;/li>
+&lt;/ul>
+&lt;h1 id="-certificates">📜 Certificates&lt;/h1>
+&lt;h2 id="driving-licences">Driving licences&lt;/h2>
+&lt;ul>
+&lt;li>🚗 B&lt;/li>
+&lt;li>🚚 C (almost done)&lt;/li>
+&lt;/ul>
+&lt;h2 id="languages">Languages&lt;/h2>
+&lt;ul>
+&lt;li>🇬🇧 Cambridge CAE&lt;/li>
+&lt;/ul>
+&lt;h1 id="-recognition">🏅 Recognition&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Most innovative project&lt;/strong>, &lt;em>First Lego League Italian Finals&lt;/em>, march 2016&lt;/li>
+&lt;/ul>
+&lt;h1 id="-contacts">📧 Contacts&lt;/h1>
+&lt;ul>
+&lt;li>Email: &lt;a href="mailto:dnlmsr0@gmail.com">dnlmsr0@gmail.com&lt;/a>&lt;/li>
+&lt;li>LinkedIn: &lt;a href="https://www.linkedin.com/in/dan-mos">dan-mos&lt;/a>&lt;/li>
+&lt;li>GitHub: &lt;a href="https://github.com/dnlmsr">dnlmsr&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Dotfiles</title><link>https://mosis.xyz/dotfiles/</link><pubDate>Fri, 15 Jul 2022 14:00:19 +0200</pubDate><guid>https://mosis.xyz/dotfiles/</guid><description>&lt;h1 id="what-are-dotfiles">What are dotfiles&lt;/h1>
+&lt;p>For those who aren&amp;rsquo;t familiar with Linux environments, dotfiles are those files
+and directories which sit in your &lt;code>/home/user/&lt;/code> directory. Those file always
+start with a dot, hence the name. They usually contain user-specific data, such
+as personal configurations, data, or cache files.&lt;/p>
+&lt;h1 id="my-dotfiles">My dotfiles&lt;/h1>
+&lt;p>You can download my dotfiles from &lt;a href="https://github.com/dnlmsr/dotfiles">GitHub&lt;/a>.
+I use &lt;a href="https://yadm.io">yadm&lt;/a> as my dotfiles manager, because it is pretty
+straight forward to use if you&amp;rsquo;re familiar with git. I strive to keep my
+dotfiles tidy and properly documented, if something is missing don&amp;rsquo;t hesitate to
+contact me or open a new issue.&lt;/p>
+&lt;h1 id="xdg-base-directory-specification">XDG Base Directory Specification&lt;/h1>
+&lt;blockquote>
+&lt;p>A clean &lt;code>/home/&lt;/code> is a happy &lt;code>/home/&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>I try to keep my home directory clean by supporting the &lt;a href="https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html">XDG Base Directory
+Specification&lt;/a>,
+which i totally suggest to do.&lt;/p></description></item><item><title>About this website</title><link>https://mosis.xyz/about/</link><pubDate>Fri, 15 Jul 2022 13:51:25 +0200</pubDate><guid>https://mosis.xyz/about/</guid><description>&lt;h1 id="why-i-own-my-website">Why I own my website&lt;/h1>
+&lt;p>Simple answer: I got tired of social media and wanted to create a space where I
+could express myself in total freedom. Owning a website means owning your
+content, so I&amp;rsquo;m not worried of some third party company using my data for their
+income.&lt;/p>
+&lt;h1 id="how-is-this-website-built">How is this website built&lt;/h1>
+&lt;p>Originally, this website was build using emacs org-mode. However, the more I
+tried to customize it, the harder it became. So I decided to migrate to HUGO. No
+bloated themes, no javascript, and definitely no trackers. Just plain and simple
+html with a small bit of css thanks to simplecss.&lt;/p>
+&lt;h1 id="why-i-dont-use-javascript">Why I don&amp;rsquo;t use javascript&lt;/h1>
+&lt;p>Web is bloated. Like seriously, I&amp;rsquo;m tired of all those cookie popups, trackers,
+bloat, advertisements and other junk that comes with today&amp;rsquo;s websites. This
+website only features a simple css theme (literally simplecss), and plain html.
+No javascript whatsoever. There are 2 main reasons for why I decided to not use
+javascript in my website:&lt;/p>
+&lt;h2 id="i-dont-need-it">I don&amp;rsquo;t need it&lt;/h2>
+&lt;p>And why would your website even need it? If your goal is just showing content to
+the public, why do you need tons of cookies or trackers? This website features
+no trackers, no Google Analytics, no adv, and probably never will.&lt;/p>
+&lt;h2 id="it-slows-down-the-web-experience">It slows down the web experience&lt;/h2>
+&lt;p>If Moore&amp;rsquo;s law is true, then why are sites loading only a tiny fraction faster
+(sometimes even slower) than 15 years ago? Websites and softwares are getting
+more resource demanding. My goal is to use as less resources as possible to make
+my content accessible to most people.&lt;/p></description></item><item><title>Here's why you should learn Git</title><link>https://mosis.xyz/blog/why-you-should-learn-git/</link><pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate><guid>https://mosis.xyz/blog/why-you-should-learn-git/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>&lt;img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git logo">&lt;/p>
+&lt;p>Over the course of my journey in Linux I discovered lots of interesting
+tools for production or for everyday tasks. But none of them compared to
+what &lt;strong>Git&lt;/strong> gave me, and I'd even go as far as saying that it
+completely changed my perspective of working on a PC.&lt;/p>
+&lt;p>&lt;strong>Warning&lt;/strong>
+This is not a guide on how to use Git, there are tons of good guides out
+there, this article is about my point of view on Git.&lt;/p>
+&lt;h1 id="example">Example&lt;/h1>
+&lt;p>Let's say you're working on a software project, or even a project
+which isn't necessarily code based such as a writing or a mechanical or
+electrical drawing. You start your project, edit it, refine it and
+you're done! And you didn't even need Git for this! Now let's say
+something doesn't look right with it: you copy your base file, probably
+save it as &lt;code>final_version&lt;/code>, edit it, and you're happy with it. Now
+let's iterate this last step 5 times until you get to the
+&lt;code>trust_me_most_final_version&lt;/code>. Great! Now you have your project folder
+cluttered of final versions, but how does someone else know which is the
+right one? Let's take this a step further, you remove something from
+your final version and you save it, then you realize that part wasn't
+so bad, how are you gonna recover it? Are you going to manage your
+projects like this or have a tool which deals with this headache for
+you?&lt;/p>
+&lt;p>If you wish to keep working like this, you probably won't go far away
+without losing versions or data. That's why VCSs (Version Control
+Systems) exist, they're there to save hours of headaches trying to look
+for that particular change you probably even deleted. There are lots of
+VCSs out there like Mercurial, CVS, SVN and others, but the most popular
+and well known is &lt;strong>Git&lt;/strong>.&lt;/p>
+&lt;h1 id="what-does-git-solve">What does Git solve&lt;/h1>
+&lt;p>Git basically takes care of versioning your project for you, without
+even noticing. Actually, you have to tell him when to store a new
+version of the file, but you surely won't have tons of final versions
+in your project directory. I will now list some problems it solves:&lt;/p>
+&lt;h2 id="saving-every-version-of-the-file">Saving every version of the file&lt;/h2>
+&lt;p>Well, that's basically what Git is intended for.&lt;/p>
+&lt;h2 id="showing-a-log-of-the-versions">Showing a log of the versions&lt;/h2>
+&lt;p>Git can show you a log of all the versions and who uploaded it.&lt;/p>
+&lt;h2 id="showing-the-difference-between-two-versions">Showing the difference between two versions&lt;/h2>
+&lt;p>Git can show you what you added and deleted to a file&lt;/p>
+&lt;h2 id="manage-multiple-files">Manage multiple files&lt;/h2>
+&lt;p>Imagine applying the example before with two different files, I won't
+even imagine the mess it would create.&lt;/p>
+&lt;h2 id="working-with-other-people">Working with other people&lt;/h2>
+&lt;p>You'll probably have to deal with working with other people once in a
+while, Git makes it easy to do it, by working around what is called a
+centralized repository. As an example:&lt;/p>
+&lt;ol>
+&lt;li>John edits the projects&lt;/li>
+&lt;li>John uploads the changes on the central repository (or &lt;code>origin&lt;/code>)&lt;/li>
+&lt;li>Joe pulls the latest changes from &lt;code>origin&lt;/code>&lt;/li>
+&lt;li>Joe edits the project&lt;/li>
+&lt;li>Joe uploads the changes on &lt;code>origin&lt;/code>&lt;/li>
+&lt;/ol>
+&lt;p>This method ensures two things:&lt;/p>
+&lt;ul>
+&lt;li>The central repository is always up to date&lt;/li>
+&lt;li>If the central repository stops working both John and Joe still have
+the full history of the project without the need of an online
+connection&lt;/li>
+&lt;/ul>
+&lt;p>This is just an example of the simplest workflow you can use. There are
+many of them on the internet or you can come up with your own. If you
+are working on a relatively big project I usually suggest using the
+&lt;a href="https://nvie.com/posts/a-successful-git-branching-model">git-flow&lt;/a>
+method by Vincent Driessen.&lt;/p>
+&lt;h2 id="branching">Branching&lt;/h2>
+&lt;p>Now we're going into the rabbit hole of this tool. Let's say you have
+a base version of your project, but you want two different versions of
+it: one with a picture of a dog in it and one with a picture of a car.
+Well branching comes to the rescue! Just create two branches and create
+a new desired version on each branch.&lt;/p>
+&lt;p>Branching is a huge topic in Git and requires an entire book just for
+what you can do with branches and how to manage them.&lt;/p>
+&lt;h2 id="merging">Merging&lt;/h2>
+&lt;p>What if your branches diverge too much? Merge them!&lt;/p>
+&lt;p>&lt;strong>Warning&lt;/strong>
+Merging works best with plain text files, see why in
+&lt;a href="#binary-text">Binary vs plain text files&lt;/a>&lt;/p>
+&lt;h1 id="why-you-need-git">Why you need Git&lt;/h1>
+&lt;p>If you do anything on a computer you need to learn how to use Git, I'd
+even go as far as saying that is should be a basic skill everyone needs
+to know. It takes few hours to learn the basics and no more than few
+days to get used to it, but the outcome is astonishing: no more
+versioned files in the project directory, no more fear of losing data
+and collaborating is way easier.&lt;/p>
+&lt;p>The preferred way of learning Git is through the command line. If
+you're not familiar with it, Git also comes with a handy user interface
+with all the basic buttons you need. And if you don't like the one that
+comes by default, don't worry, there are tons of them out there!&lt;/p>
+&lt;p>If you wish to take a ride into the Git world, there is a cool game
+called &lt;a href="https://ohmygit.org">Oh my Git&lt;/a>. It covers all the basics in a
+funny and entertaining way.&lt;/p>
+&lt;h1 id="binary-text">Binary vs plain text files&lt;/h1>
+&lt;p>One thing to say, Git works best with plain text files, and that's the
+reason why I tried to move away from binary files as much as I could.
+You can't merge binary files without breaking something, although not
+every file can be used as a plain text file. Don't get me wrong, Git
+&lt;strong>does work&lt;/strong> with binary files and I still recommend to do it, as a
+fact you can stage them, commit them and checkout new and old revisions,
+you just can't get every cool feature that it offers. I could keep
+talking about why you should move to plain text files when writing
+anything on a computer but I'll keep this for another day.&lt;/p>
+&lt;h2 id="files-which-are-plain-text-include">Files which are plain text include:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;code>txt&lt;/code> files&lt;/li>
+&lt;li>Most programming languages source code&lt;/li>
+&lt;li>Markdown files&lt;/li>
+&lt;li>Org-mode files (the one I'm writing on right now)&lt;/li>
+&lt;li>Literally any other file which when opened with notepad and doesn't
+produce gibberish.&lt;/li>
+&lt;/ul>
+&lt;h2 id="files-which-are-not-plain-text-include">Files which are &lt;strong>not&lt;/strong> plain text include:&lt;/h2>
+&lt;ul>
+&lt;li>PDFs&lt;/li>
+&lt;li>Every Microsoft Office document type&lt;/li>
+&lt;li>Most closed source programming languages&lt;/li>
+&lt;li>Mechanical drawings&lt;/li>
+&lt;li>Images&lt;/li>
+&lt;li>Videos&lt;/li>
+&lt;li>Specific programs files&lt;/li>
+&lt;/ul>
+&lt;h1 id="conclusions">Conclusions&lt;/h1>
+&lt;p>To summarize:&lt;/p>
+&lt;ul>
+&lt;li>Git offers an opportunity to get rid of all your headaches when
+working on a computer.&lt;/li>
+&lt;li>You need to learn Git if you want to easily collaborate and share
+files.&lt;/li>
+&lt;li>It's easy to learn and there is a game called &lt;a href="https://ohmygit.org">Oh my
+git&lt;/a> which covers all the basics.&lt;/li>
+&lt;li>Binary files won't give you as much flexibility as plain text
+files.&lt;/li>
+&lt;/ul></description></item></channel></rss>
