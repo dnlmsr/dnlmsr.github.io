@@ -4,9 +4,9 @@ description: "A few reasons on why you should make use of the most popular VCS, 
 date: "2022-03-12"
 ---
 
-## Introduction
-
 ![Git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+
+## Introduction
 
 Over the course of my journey in Linux I discovered lots of interesting
 tools for production or for everyday tasks. But none of them compared to
