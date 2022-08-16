@@ -71,7 +71,7 @@ electronics and programming.
 
 ## 👨🏼‍💻 Work experience
 
-### LEOS S.r.l. (January 2021 - today) {#work-leos}
+### LEOS S.r.l. (January 2021 - August 2022) {#work-leos}
 
 I am currently working in a production environment where I manage the production
 and quality assurance of the electronics which control laser heads used for
