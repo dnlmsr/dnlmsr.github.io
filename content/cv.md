@@ -73,12 +73,12 @@ electronics and programming.
 
 ### LEOS S.r.l. (January 2021 - August 2022) {#work-leos}
 
-I am currently working in a production environment where I manage the production
-and quality assurance of the electronics which control laser heads used for
-spectroscopy purposes. I also maintain the company network and documentation system, which
-is based on the free and open source software
-[mediawiki](https://www.mediawiki.org/wiki/MediaWiki).
-Other tasks include:
+I worked in a production environment where I managed the production
+and quality assurance of the electronics which control laser heads
+used for spectroscopy purposes. I also maintained the company network
+and documentation system, which is based on the free and open source
+software [mediawiki](https://www.mediawiki.org/wiki/MediaWiki). Other
+tasks included:
 - Production of electronic controllers;
 - Managing the controller software driven by Linux;
 - Programming embedded electronics;
