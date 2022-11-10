@@ -6,11 +6,11 @@ weight: 2
 ## 🙋🏼‍♂️ Who am I
 
 Hi, I'm Daniele, I'm a 22 year old guy based in Trentino, Italy. I
-work as an electronic designer and embedded software developer in
-[LEOS](http://www.leos-instruments.com) where my daily work consists of
-production management of the electronics which control lasers for
-spectroscopy purposes (you can find more info in the [work
-section](#work-leos)).
+work as an embedded software developer in [ewo](http://www.ewo.com)
+where my daily work consists of firmware development for smart street
+lights, but also software development for the production and
+configuration of the smart nodes (you can find more info in the [work
+section](#work-ewo)).
 
 In my free time, you can find me running in the mountains, growing new
 technical skills but most importantly being a volunteer firefighter 🚒.
@@ -70,6 +70,11 @@ project of a Rubik's cube solver, where I covered most of the
 electronics and programming.
 
 ## 👨🏼‍💻 Work experience
+
+### ewo GmbH/S.r.l. (October 2022 - now) {#work-ewo}
+I am currently working on the development of smart IoT nodes which
+control new smart street lights which make use of various sensors. I
+also develop and maintain the software used for testing the firmware.
 
 ### LEOS S.r.l. (January 2021 - August 2022) {#work-leos}
 
