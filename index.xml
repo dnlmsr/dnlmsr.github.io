@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniele Moser on mosis.xyz</title><link>https://mosis.xyz/</link><description>Recent content in Daniele Moser on mosis.xyz</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mosis.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://mosis.xyz/cv/</link><pubDate>Wed, 13 Jul 2022 14:38:20 +0200</pubDate><guid>https://mosis.xyz/cv/</guid><description>&lt;h2 id="-who-am-i">🙋🏼‍♂️ Who am I&lt;/h2>
-&lt;p>Hi, I&amp;rsquo;m Daniele, I&amp;rsquo;m a 22 year old guy based in Trentino, Italy. I
-work as an electronic designer and embedded software developer in
-&lt;a href="http://www.leos-instruments.com">LEOS&lt;/a> where my daily work consists of
-production management of the electronics which control lasers for
-spectroscopy purposes (you can find more info in the &lt;a href="#work-leos">work
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniele Moser on mosis.xyz</title><link>https://mosis.xyz/</link><description>Recent content in Daniele Moser on mosis.xyz</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mosis.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://mosis.xyz/cv/</link><pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate><guid>https://mosis.xyz/cv/</guid><description>&lt;h2 id="-who-am-i">🙋🏼‍♂️ Who am I&lt;/h2>
+&lt;p>Hi, I&amp;rsquo;m Daniele, I&amp;rsquo;m a 23 year old guy based in Trentino, Italy. I
+work as a firmware developer in &lt;a href="http://www.ewo.com">ewo&lt;/a> where my
+daily work consists of firmware development for smart street lights,
+but also software development for the production and configuration of
+the smart nodes (you can find more info in the &lt;a href="#work-ewo">work
 section&lt;/a>).&lt;/p>
 &lt;p>In my free time, you can find me running in the mountains, growing new
 technical skills but most importantly being a volunteer firefighter 🚒.&lt;/p>
@@ -51,13 +51,17 @@ facility and lean production methods used in the factory.&lt;/p>
 project of a Rubik&amp;rsquo;s cube solver, where I covered most of the
 electronics and programming.&lt;/p>
 &lt;h2 id="-work-experience">👨🏼‍💻 Work experience&lt;/h2>
-&lt;h3 id="work-leos">LEOS S.r.l. (January 2021 - today)&lt;/h3>
-&lt;p>I am currently working in a production environment where I manage the production
-and quality assurance of the electronics which control laser heads used for
-spectroscopy purposes. I also maintain the company network and documentation system, which
-is based on the free and open source software
-&lt;a href="https://www.mediawiki.org/wiki/MediaWiki">mediawiki&lt;/a>.
-Other tasks include:&lt;/p>
+&lt;h3 id="work-ewo">ewo GmbH/S.r.l. (October 2022 - now)&lt;/h3>
+&lt;p>I am currently working on the development of smart IoT nodes which
+control new smart street lights which make use of various sensors. I
+also develop and maintain the software used for testing the firmware.&lt;/p>
+&lt;h3 id="work-leos">LEOS S.r.l. (January 2021 - August 2022)&lt;/h3>
+&lt;p>I worked in a production environment where I managed the production
+and quality assurance of the electronics which control laser heads
+used for spectroscopy purposes. I also maintained the company network
+and documentation system, which is based on the free and open source
+software &lt;a href="https://www.mediawiki.org/wiki/MediaWiki">mediawiki&lt;/a>. Other
+tasks included:&lt;/p>
 &lt;ul>
 &lt;li>Production of electronic controllers;&lt;/li>
 &lt;li>Managing the controller software driven by Linux;&lt;/li>
