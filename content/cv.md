@@ -1,16 +1,16 @@
 ---
 title: "Curriculum Vitae"
-date: "2022-07-13T14:38:20+02:00"
+date: "2023-02-05"
 weight: 2
 ---
 ## 🙋🏼‍♂️ Who am I
 
-Hi, I'm Daniele, I'm a 22 year old guy based in Trentino, Italy. I
-work as an electronic designer and embedded software developer in
-[LEOS](http://www.leos-instruments.com) where my daily work consists of
-production management of the electronics which control lasers for
-spectroscopy purposes (you can find more info in the [work
-section](#work-leos)).
+Hi, I'm Daniele, I'm a 23 year old guy based in Trentino, Italy. I
+work as a firmware developer in [ewo](http://www.ewo.com) where my
+daily work consists of firmware development for smart street lights,
+but also software development for the production and configuration of
+the smart nodes (you can find more info in the [work
+section](#work-ewo)).
 
 In my free time, you can find me running in the mountains, growing new
 technical skills but most importantly being a volunteer firefighter 🚒.
@@ -71,14 +71,19 @@ electronics and programming.
 
 ## 👨🏼‍💻 Work experience
 
-### LEOS S.r.l. (January 2021 - today) {#work-leos}
+### ewo GmbH/S.r.l. (October 2022 - now) {#work-ewo}
+I am currently working on the development of smart IoT nodes which
+control new smart street lights which make use of various sensors. I
+also develop and maintain the software used for testing the firmware.
 
-I am currently working in a production environment where I manage the production
-and quality assurance of the electronics which control laser heads used for
-spectroscopy purposes. I also maintain the company network and documentation system, which
-is based on the free and open source software
-[mediawiki](https://www.mediawiki.org/wiki/MediaWiki).
-Other tasks include:
+### LEOS S.r.l. (January 2021 - August 2022) {#work-leos}
+
+I worked in a production environment where I managed the production
+and quality assurance of the electronics which control laser heads
+used for spectroscopy purposes. I also maintained the company network
+and documentation system, which is based on the free and open source
+software [mediawiki](https://www.mediawiki.org/wiki/MediaWiki). Other
+tasks included:
 - Production of electronic controllers;
 - Managing the controller software driven by Linux;
 - Programming embedded electronics;
