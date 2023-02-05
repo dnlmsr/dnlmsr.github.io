@@ -124,7 +124,7 @@ managed to see the production and testing process of PCBs.
 
 ### Driving licences
 - 🚗 B
-- 🚚 C (almost done)
+- 🚚 C
 
 ### Languages
 - 🇬🇧 Cambridge CAE
