@@ -5,11 +5,11 @@ weight: 2
 ---
 ## 🙋🏼‍♂️ Who am I
 
-Hi, I'm Daniele, I'm a 22 year old guy based in Trentino, Italy. I
-work as an embedded software developer in [ewo](http://www.ewo.com)
-where my daily work consists of firmware development for smart street
-lights, but also software development for the production and
-configuration of the smart nodes (you can find more info in the [work
+Hi, I'm Daniele, I'm a 23 year old guy based in Trentino, Italy. I
+work as a firmware developer in [ewo](http://www.ewo.com) where my
+daily work consists of firmware development for smart street lights,
+but also software development for the production and configuration of
+the smart nodes (you can find more info in the [work
 section](#work-ewo)).
 
 In my free time, you can find me running in the mountains, growing new
